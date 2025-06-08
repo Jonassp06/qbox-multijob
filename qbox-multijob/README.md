@@ -1,6 +1,3 @@
-Jonassp06/Jonassp06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## Qbox MultiJob
 
 This repository includes a small example script for **Qbox** servers using `ox_lib`. The script lets players switch between multiple jobs or go off duty using a context menu. The resource can be found in the `qbox-multijob` folder.
